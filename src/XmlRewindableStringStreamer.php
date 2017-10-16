@@ -8,7 +8,7 @@
 
 namespace kmin;
 
-use Prewk\XmlStringStreamer\XmlStringStreamer
+use Prewk\XmlStringStreamer;
 use Prewk\XmlStringStreamer\ParserInterface;
 use Prewk\XmlStringStreamer\StreamInterface;
 use Prewk\XmlStringStreamer\Parser;
